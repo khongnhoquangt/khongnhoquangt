@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khongnhoquangt
 - 👀 I’m interested in ReactJS/NextJS
 - 🌱 I’m currently learning ReactJS/NextJS
-- 💞️ I’m looking to collaborate on a company about coding.
 - 📫 How to reach me: email: phamhuy31102001@gmail.com
 
 <!---
