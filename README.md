@@ -1,5 +1,5 @@
+BLOCKCHAIN FRONT-END DEVELOPER
 - 👋 Hi, I’m @khongnhoquangt
-- 👀 I’m interested in ReactJS/NextJS
 - 🌱 I’m currently coding ReactJS/NextJS
 - 📫 How to reach me: email: phamhuy31102001@gmail.com
 
